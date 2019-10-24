@@ -1,0 +1,39 @@
+Name:Jacob Ringer
+Date:10/22/19
+Project: Space Shooter
+Peer's repository:  https://github.com/dbhadour/05-Space-Shooter.git
+
+
+
+What is something you learned by reviewing your peer's project?
+How to have enemy sprites fire weapons at random intervals. I've been trying to figure that out for a while now.
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+As I said before, a method of random initialization that can be used for shooting, spawning, etc
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+
+ Nothing much, it's well organized and not spaced out like I tend to do it.
+
+What could have been clearer or better commented?
+
+Could have added several comments within the "update" function. There's alot of functionality that goes unexplained.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+
+ No
+
+Does the repository contain an appropriate LICENSE?
+
+Yes 
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+Nope, pretty much explained their whole process. 
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+Thanks for finding a solution to something I have been trying to find out myself.
